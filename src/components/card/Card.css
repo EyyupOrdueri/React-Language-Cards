@@ -7,7 +7,17 @@
     display: grid;
     grid-template-rows: 10% 90%;
     grid-template-areas: "top" "bottom";
-    /* overflow: hidden; */
+    overflow: hidden;
+}
+
+.bars {
+    height: 44rem;
+    width: 5rem;
+    background-color: #53C1DE;   
+    position: relative;
+    transform: rotate(-45deg);
+    top: -42rem;
+    left: 10rem;
 }
 
 .language-title {

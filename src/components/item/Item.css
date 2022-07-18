@@ -21,3 +21,14 @@
 .card:hover .card-logo {
     transform: scale(1.15);
 }
+
+.card-title {
+    font-size: 1.7rem;
+}
+
+.list {
+    text-align: left;
+    font-size: 0.9rem;
+    font-weight: 500;
+    list-style-position: inside;
+}
