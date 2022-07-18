@@ -2,4 +2,4 @@
 
 [Click Here](https://eyyup-react-language-card.netlify.app/)
 
-![intro](intro.gif)
+![intro](public/intro.gif)
